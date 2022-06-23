@@ -54,7 +54,7 @@ Para que toda a operação de envio dos arquivos tenha sucesso é preciso realiz
 
 O **git remote** estabelece uma conexão entre seu repositório local e um repositório remoto
 
-![git remote](https://drive.google.com/file/d/1m00dans6gxwH7h5mlkYd68e9VH_UNI2a/view?usp=sharing)
+[](https://drive.google.com/file/d/1m00dans6gxwH7h5mlkYd68e9VH_UNI2a/view?usp=sharing)
 
 **git push**
 
@@ -64,4 +64,4 @@ Exemplo:
 
 **$ git push  <nome_curto> <nome_do_branch>**
 
-![](C:\Users\cjean\Downloads\git push.jpeg)
+[](https://drive.google.com/file/d/1Lr00SqYjEJMr2wp8QGp85vqksa4ZHkKD/view?usp=sharing)

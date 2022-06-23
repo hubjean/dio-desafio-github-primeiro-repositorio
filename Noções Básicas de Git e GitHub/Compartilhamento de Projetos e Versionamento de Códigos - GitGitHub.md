@@ -64,4 +64,4 @@ Exemplo:
 
 **$ git push  <nome_curto> <nome_do_branch>**
 
-[](https://drive.google.com/file/d/1Lr00SqYjEJMr2wp8QGp85vqksa4ZHkKD/view?usp=sharing)
+https://drive.google.com/file/d/1Lr00SqYjEJMr2wp8QGp85vqksa4ZHkKD/view?usp=sharing
